@@ -1,0 +1,13 @@
+{
+  "id": "llzwhkk0pp_ir",
+  "data": {
+    "questions": [
+      "/ir"
+    ],
+    "answer": "",
+    "redirectFlow": "impostoRenda.flow.json",
+    "redirectNode": "entry",
+    "action": "redirect",
+    "enabled": true
+  }
+}

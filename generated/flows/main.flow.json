@@ -1,0 +1,77 @@
+{
+  "version": "0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": [
+      {
+        "condition": "event.nlu.intent.is('forget')",
+        "node": "forget-my-name"
+      }
+    ]
+  },
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "a54a82eb7c",
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_text-00SOW6",
+        "say #!builtin_text-fIutSf"
+      ],
+      "onReceive": null,
+      "next": [
+        {
+          "condition": "always",
+          "node": "validarInicio"
+        }
+      ]
+    },
+    {
+      "id": "29f2f22af0",
+      "name": "validarInicio",
+      "next": [
+        {
+          "condition": "state.incio === true",
+          "node": "verdadeiro"
+        },
+        {
+          "condition": "true",
+          "node": "falso"
+        }
+      ],
+      "onEnter": [
+        "validarInicio {}"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "6ccda2a863",
+      "name": "verdadeiro",
+      "next": [
+        {
+          "condition": "always",
+          "node": "END"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-ryh3H8"
+      ],
+      "onReceive": null
+    },
+    {
+      "id": "131461a87d",
+      "name": "falso",
+      "next": [
+        {
+          "condition": "always",
+          "node": "menuPre.flow.json"
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-paqtp2",
+        "say #!builtin_text-j8aMK4"
+      ],
+      "onReceive": null
+    }
+  ]
+}

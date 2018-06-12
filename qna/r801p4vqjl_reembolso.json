@@ -1,0 +1,13 @@
+{
+  "id": "r801p4vqjl_reembolso",
+  "data": {
+    "questions": [
+      "/reembolso"
+    ],
+    "answer": "",
+    "redirectFlow": "reembolso.flow.json",
+    "redirectNode": "entry",
+    "action": "redirect",
+    "enabled": true
+  }
+}

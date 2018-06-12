@@ -1,0 +1,20 @@
+[
+    {
+        "id": "choice-1",
+        "formData": {
+            "text": "Para te ajudar melhor eu preciso saber se você é um beneficiário GNDI?",
+            "choices": [
+                {
+                    "payload": "nao",
+                    "text": "Não"
+                },
+                {
+                    "payload": "sim",
+                    "text": "Sim"
+                }
+            ]
+        },
+        "createdBy": "admin",
+        "createdOn": "2018-06-08T00:00:00.000Z"
+    }
+]

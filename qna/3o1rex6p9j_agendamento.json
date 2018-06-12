@@ -1,0 +1,13 @@
+{
+  "id": "3o1rex6p9j_agendamento",
+  "data": {
+    "questions": [
+      "/agendamento"
+    ],
+    "answer": "",
+    "redirectFlow": "agendamento.flow.json",
+    "redirectNode": "entry",
+    "action": "redirect",
+    "enabled": true
+  }
+}

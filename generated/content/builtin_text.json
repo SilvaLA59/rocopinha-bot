@@ -1,0 +1,172 @@
+[
+  {
+    "id": "builtin_text-nome",
+    "formData": {
+      "text": "Qual é o seu nome?",
+      "typing": true
+    },
+    "createdBy": null,
+    "createdOn": null
+  },
+  {
+    "id": "builtin_text-idade",
+    "formData": {
+      "text": "Qual a sua idade?",
+      "typing": true
+    },
+    "createdBy": null,
+    "createdOn": null
+  },
+  {
+    "id": "builtin_text-hello",
+    "formData": {
+      "text": "Olá",
+      "variations": [
+        "Hello",
+        "Welcome to Botpress!"
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:57:36.026Z"
+  },
+  {
+    "id": "builtin_text-questions",
+    "formData": {
+      "text": "Você respondeu {{state.count}} de {{state.totalQuestions}}.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:57:36.026Z"
+  },
+  {
+    "id": "builtin_text-user",
+    "formData": {
+      "text": "Olá {{state.userTag.nome}}. Você tem {{state.userTag.idade}} anos.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:57:36.026Z"
+  },
+  {
+    "id": "builtin_text-pSsHWg",
+    "formData": {
+      "text": "👋, {{state.$r}}!",
+      "variations": [
+        "Hello, {{state.$r}}!",
+        "Welcome to Botpress, {{state.$r}}!"
+      ],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:57:36.026Z"
+  },
+  {
+    "id": "builtin_text-AY5SSW",
+    "formData": {
+      "text": "This is the first time we speak 🤖",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T00:59:51.118Z"
+  },
+  {
+    "id": "builtin_text-bFsOmf",
+    "formData": {
+      "text": "We already spoke {{state.$r}} times!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:00:37.593Z"
+  },
+  {
+    "id": "builtin_text-TtzrCV",
+    "formData": {
+      "text": "Alright, I have forgotten your name.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:06:41.963Z"
+  },
+  {
+    "id": "builtin_text-z0J9qh",
+    "formData": {
+      "text": "May I know your name please?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:08:41.241Z"
+  },
+  {
+    "id": "builtin_text-X069Le",
+    "formData": {
+      "text": "Try saying something like \"forget my name\"!",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:16:53.227Z"
+  },
+  {
+    "id": "builtin_text-kKQ8C3",
+    "formData": {
+      "text": "(To see how this works, double-click anywhere on the flow and go to the \"Transitions\" panel)",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-05-14T01:17:55.317Z"
+  },
+  {
+    "id": "builtin_text-8FjQCZ",
+    "formData": {
+      "text": "Começou o teste",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-06-04T14:33:19.327Z"
+  },
+  {
+    "id": "builtin_text-IaRXPO",
+    "formData": {
+      "text": "Esse é o valor do retorno {{state.goodAnswer.Resp}}",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-06-04T14:36:07.564Z"
+  },
+  {
+    "id": "builtin_text-rbaVO7",
+    "formData": {
+      "text": "Olá eu sou um atendente especializado para agilizar o seu atendimento.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-06-07T13:58:53.090Z"
+  },
+  {
+    "id": "builtin_text-NdJ4M5",
+    "formData": {
+      "text": "Atualmente estou treinado para realizar pequenos atendimentos",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-06-07T13:59:51.520Z"
+  },
+  {
+    "id": "builtin_text-~fMFd9",
+    "formData": {
+      "text": "Digite menu para eu lhe mostrar todas as tarefas que eu consigo realizar",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-06-07T15:01:53.082Z"
+  },
+  {
+    "id": "builtin_text-KAiF1E",
+    "formData": {
+      "text": "Você disse {{event.text}}.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-06-07T16:12:46.285Z"
+  }
+]

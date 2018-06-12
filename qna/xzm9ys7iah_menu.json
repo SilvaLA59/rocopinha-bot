@@ -1,0 +1,14 @@
+{
+  "id": "xzm9ys7iah_menu",
+  "data": {
+    "questions": [
+      "menu",
+      "/menu"
+    ],
+    "answer": "",
+    "redirectFlow": "mainMenu.flow.json",
+    "redirectNode": "mainMenu",
+    "action": "redirect",
+    "enabled": true
+  }
+}

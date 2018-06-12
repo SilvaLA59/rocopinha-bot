@@ -1,0 +1,22 @@
+{
+  "version": "0.1",
+  "catchAll": {},
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "ca5527cabb",
+      "name": "entry",
+      "onEnter": [
+        "say #!builtin_text-O0Ndx0",
+        "getMenu {}"
+      ],
+      "onReceive": null,
+      "next": [
+        {
+          "condition": "always",
+          "node": "END"
+        }
+      ]
+    }
+  ]
+}

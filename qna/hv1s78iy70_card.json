@@ -1,0 +1,13 @@
+{
+  "id": "hv1s78iy70_card",
+  "data": {
+    "questions": [
+      "/card"
+    ],
+    "answer": "",
+    "redirectFlow": "main.flow.json",
+    "redirectNode": "start",
+    "action": "redirect",
+    "enabled": true
+  }
+}

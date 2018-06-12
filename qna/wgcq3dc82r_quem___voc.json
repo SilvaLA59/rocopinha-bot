@@ -1,0 +1,13 @@
+{
+  "id": "wgcq3dc82r_quem___voc",
+  "data": {
+    "questions": [
+      "Quem é você"
+    ],
+    "answer": "Eu sou o chatbot.",
+    "redirectFlow": "",
+    "redirectNode": "",
+    "action": "text",
+    "enabled": true
+  }
+}

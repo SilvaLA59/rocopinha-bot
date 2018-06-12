@@ -1,0 +1,16 @@
+{
+  "id": "4gxi94bk6f_bom_dia",
+  "data": {
+    "questions": [
+      "",
+      "olá",
+      "bom dia",
+      "oi"
+    ],
+    "answer": "",
+    "redirectFlow": "hello.flow.json",
+    "redirectNode": "hello",
+    "action": "redirect",
+    "enabled": true
+  }
+}

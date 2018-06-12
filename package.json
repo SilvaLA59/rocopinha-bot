@@ -1,0 +1,30 @@
+{
+  "name": "rocopinha-bot",
+  "version": "1.0.0",
+  "description": "Chatobot do Rocopinha",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">= 8.0"
+  },
+  "dependencies": {
+    "@botpress/audience": "10.13.4",
+    "@botpress/builtins": "10.13.4",
+    "@botpress/channel-messenger": "^10.11.1",
+    "@botpress/channel-web": "10.13.4",
+    "@botpress/hitl": "10.13.4",
+    "@botpress/nlu": "10.13.4",
+    "@botpress/qna": "^10.15.0",
+    "botpress": "10.15.0",
+    "jsdoc-api": "^4.0.3",
+    "lodash": "^4.17.10",
+    "request": "^2.87.0",
+    "yn": "^2.0.0"
+  },
+  "scripts": {
+    "start": "botpress start",
+    "ghost-sync": "botpress ghost-sync",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Alves",
+  "license": "AGPL-3.0"
+}

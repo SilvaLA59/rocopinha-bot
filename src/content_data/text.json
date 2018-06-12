@@ -1,0 +1,57 @@
+[
+  {
+    "id": "builtin_text-00SOW6",
+    "formData": {
+      "text": "Olá, eu sou o Rocopinha",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-06-11T19:13:16.862Z"
+  },
+  {
+    "id": "builtin_text-fIutSf",
+    "formData": {
+      "text": "e eu adoro falar sobre futebol :)",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-06-11T19:13:56.808Z"
+  },
+  {
+    "id": "builtin_text-ryh3H8",
+    "formData": {
+      "text": "Estou adorando a copa desse ano",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-06-11T19:24:45.140Z"
+  },
+  {
+    "id": "builtin_text-paqtp2",
+    "formData": {
+      "text": "Estou muito ansioso  para a copa deste ano!",
+      "variations": [],
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-06-11T19:25:35.075Z"
+  },
+  {
+    "id": "builtin_text-j8aMK4",
+    "formData": {
+      "text": "Assim que a copa começar eu terei muito assunto para poder conversar :)",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-06-11T19:42:18.619Z"
+  },
+  {
+    "id": "builtin_text-O0Ndx0",
+    "formData": {
+      "text": "Mas tem algumas coisas que eu já sei te dizer",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-06-11T19:47:02.790Z"
+  }
+]
