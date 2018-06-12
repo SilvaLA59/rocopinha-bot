@@ -8,7 +8,7 @@
   "appSecret": "0bdabc9df29afca3b69182f8126843c7", // ENV Variable: MESSENGER_APP_SECRET
 
   "verifyToken": "A)B!C@D#E$", // <== Input a long random, hard-to-guess string here
-  "hostname": "cd66a670.ngrok.io", // The URL to reach your bot, must be HTTPS (google: ngrok)
+  "hostname": "rocopinha-bot.herokuapp.com", // The URL to reach your bot, must be HTTPS (google: ngrok)
 
   /************
     Optional settings

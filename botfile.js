@@ -101,7 +101,7 @@ module.exports = {
     Access control of admin panel
   */
   login: {
-    enabled: false,
+    enabled: true,
     useCloud: process.env.BOTPRESS_CLOUD_ENABLED,
     tokenExpiry: '6 hours',
     password: process.env.BOTPRESS_PASSWORD || 'password',
